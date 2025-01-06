@@ -1,0 +1,14 @@
+Name: [113238509588870463460], Granted Authorities:
+[
+[OIDC_USER, SCOPE_https://www.googleapis.com/auth/userinfo.email,
+SCOPE_https://www.googleapis.com/auth/userinfo.profile, SCOPE_openid]],
+User Attributes: [{at_hash=cW4W5YGMOnmYQ6bqShTVdw, sub=113238509588870463460, email_verified=true, iss=https://accounts.google.com, given_name=Ashwin, nonce=ujd_M2_uaK99_SaSgOboYQaPsJlrhUvhLnbq9oxqIHc, picture=https://lh3.googleusercontent.com/a/ACg8ocIuZLwIVYoUc-FgZDUb6Q6qXs09qpvizttTkLnXIRaktAnIBOa-=s96-c, aud=[123978764845-0tlobuaqlqaco5prc3go3j28he2qkblv.apps.googleusercontent.com],
+azp=123978764845-0tlobuaqlqaco5prc3go3j28he2qkblv.apps.googleusercontent.com,
+name=Ashwin Menghar, exp=2025-01-04T16:32:17Z,
+family_name=Menghar, iat=2025-01-04T15:32:17Z,
+email=ashwinmenghar123@gmail.com}]
+
+
+
+key: 123978764845-0tlobuaqlqaco5prc3go3j28he2qkblv.apps.googleusercontent.com
+sec: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
